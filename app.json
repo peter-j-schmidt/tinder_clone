@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "A clone of the Tinder app using react native, the randomuser.me api, and react-native-gesture-handler.",
+    "githubUrl": "https://github.com/peter-j-schmidt/tinder_clone"
   }
 }
